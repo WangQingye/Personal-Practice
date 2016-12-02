@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>FiveNavStyles</title>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+</head>
+<body>
+
+<p>导航栏形式</p>
+<ul class="nav nav-tabs dropdown">
+    <li class="active"><a href="#">Home</a></li>
+    <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+            Web develop <span class="caret"></span>
+        </a>
+        <ul class="dropdown-menu">
+            <li class="dropdown-header">原生语言</li>
+            <li><a href="#">html</a></li>
+            <li><a href="#">CSS</a></li>
+            <li><a href="#">JavaScript</a></li>
+            <li class="divider"></li>
+            <li class="dropdown-header">框架</li>
+            <li><a href="#">Bootstrap</a></li>
+            <li><a href="#">jQuery</a></li>
+            <li><a href="#">Angular</a></li>
+            <li class="disabled"><a href="#">我不会框架</a></li>
+        </ul>
+    </li>
+    <li><a href="#">Backend develop</a></li>
+    <li><a href="#">Mobile develop</a></li>
+    <li><a href="#">Data process</a></li>
+    <li><a href="#">Image process</a></li>
+</ul>
+
+<br /><br />
+<p>按钮形式</p>
+<div class="dropdown">
+    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
+        Web develop <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">hmtl</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">CSS</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">JavaScript</a></li>
+        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">其他框架</a></li>
+    </ul>
+    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown">
+        Back develop <span class="caret"></span>
+    </button>
+    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu3" data-toggle="dropdown">
+        Mobile develop <span class="caret"></span>
+    </button>
+</div>
+
+<br /><br />
+<p>按钮组形式</p><!--改为btn-group-vertical的话就是垂直按钮组-->
+<div class="btn-group">
+    <div class="btn-group">
+        <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">
+            Web develop <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu">
+            <li><a href="#">html</a></li>
+            <li><a href="#">CSS</a></li>
+            <li><a href="#">JavaScript</a></li>
+            <li><a href="#">框架</a></li>
+        </ul>
+    </div>
+    <button class="btn btn-default" type="button">Backend develop</button>
+    <button class="btn btn-default" type="button">Mobile develop</button>
+    <button class="btn btn-default" type="button">Data process</button>
+    <button class="btn btn-default" type="button">Image process</button>
+</div>
+
+<br /><br />
+<p>无边框自适应的导航样式</p>
+<ul class="nav nav-pills nav-justified">
+    <li><a href="##">Home</a></li>
+    <li class="dropdown"><a href="##" class="dropdown-toggle" data-toggle="dropdown">
+        Web develop <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+            <li><a href="#">html</a></li>
+            <li><a href="#">CSS</a></li>
+            <li><a href="#">JavaScript</a></li>
+        </ul>
+    </li>
+    <li><a href="##">Backend develop</a></li>
+    <li><a href="##">Mobile develop</a></li>
+    <li><a href="##">Data process</a></li>
+    <li><a href="##">Image process</a></li>
+</ul>
+
+<br /><br />
+<p>面包屑导航</p>
+<ol class="breadcrumb">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Web develop</a></li>
+    <li><a href="#">html</a></li>
+</ol>
+
+<script src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+</body>
+</html>
