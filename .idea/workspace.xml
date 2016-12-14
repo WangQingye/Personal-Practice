@@ -202,14 +202,20 @@
       <option name="project" value="LOCAL" />
       <updated>1481708760530</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="默认的">
+      <created>1481709332971</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1481709332971</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="739000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="333" y="11" width="1159" height="1053" extended-state="0" />
+    <frame x="333" y="11" width="1159" height="1053" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19892953" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
