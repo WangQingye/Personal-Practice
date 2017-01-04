@@ -313,7 +313,13 @@
       <option name="project" value="LOCAL" />
       <updated>1483538089060</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="默认的">
+      <created>1483538125076</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1483538125076</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
