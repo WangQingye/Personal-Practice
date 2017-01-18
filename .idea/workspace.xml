@@ -41,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/bootstrap-nav.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.4370861">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -481,7 +481,13 @@
       <option name="project" value="LOCAL" />
       <updated>1484751135655</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="默认的">
+      <created>1484751204332</created>
+      <option name="number" value="00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1484751204332</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -798,7 +804,7 @@
     <entry file="file://$PROJECT_DIR$/bootstrap-nav.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4370861">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
           <folding />
         </state>
       </provider>
