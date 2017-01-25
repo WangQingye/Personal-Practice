@@ -229,12 +229,6 @@
       <updated>1480668614815</updated>
       <workItem from="1480668616197" duration="739000" />
     </task>
-    <task id="LOCAL-00023" summary="默认的">
-      <created>1483623151064</created>
-      <option name="number" value="00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1483623151064</updated>
-    </task>
     <task id="LOCAL-00024" summary="默认的">
       <created>1483714118200</created>
       <option name="number" value="00024" />
@@ -523,7 +517,13 @@
       <option name="project" value="LOCAL" />
       <updated>1485359642970</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="默认的">
+      <created>1485360085705</created>
+      <option name="number" value="00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1485360085705</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
