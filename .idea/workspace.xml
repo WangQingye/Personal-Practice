@@ -31,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/bootstrap-nav.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.3719647">
-              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -246,12 +246,6 @@
       <option name="number" value="Default" />
       <updated>1480668614815</updated>
       <workItem from="1480668616197" duration="739000" />
-    </task>
-    <task id="LOCAL-00042" summary="默认的">
-      <created>1484750943242</created>
-      <option name="number" value="00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1484750943242</updated>
     </task>
     <task id="LOCAL-00043" summary="默认的">
       <created>1484751011680</created>
@@ -541,7 +535,13 @@
       <option name="project" value="LOCAL" />
       <updated>1486390731017</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="默认的">
+      <created>1486390784537</created>
+      <option name="number" value="00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1486390784537</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -967,7 +967,7 @@
     <entry file="file://$PROJECT_DIR$/bootstrap-nav.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3719647">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
           <folding />
         </state>
       </provider>
