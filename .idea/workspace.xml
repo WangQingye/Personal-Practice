@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d1be6ff-74c9-401f-bb8f-1c84e588b1a2" name="默认的" comment="默认的">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap-nav.html" afterPath="$PROJECT_DIR$/bootstrap-nav.html" />
     </list>
     <ignored path="个人练习仓库.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -263,14 +261,7 @@
       <option name="presentableId" value="Default" />
       <updated>1480668614815</updated>
       <workItem from="1480668616197" duration="739000" />
-      <workItem from="1494173816027" duration="372000" />
-    </task>
-    <task id="LOCAL-00047" summary="默认的">
-      <created>1484751204332</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1484751204332</updated>
+      <workItem from="1494173816027" duration="426000" />
     </task>
     <task id="LOCAL-00048" summary="默认的">
       <created>1484751261687</created>
@@ -608,14 +599,22 @@
       <option name="project" value="LOCAL" />
       <updated>1486477160402</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="默认的">
+      <created>1494174214771</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1494174214773</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1111000" />
+    <option name="totallyTimeSpent" value="1165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="973" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19852553" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
